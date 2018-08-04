@@ -1,0 +1,36 @@
+.navbar {
+    background-color: rgb(55, 116, 159) !important;
+}
+
+body {
+    background-color: rgb(246, 246, 246);
+}
+
+.wrapper {
+    display:grid;
+
+    grid-template-columns: 30%;
+    
+padding: 22px;
+
+
+margin-right: 400px;
+
+
+ 
+ 
+
+}
+
+.div1 {
+    background-color: rgb(255, 251, 251);
+    color: black;
+    padding: 15px;
+    
+    Width:175px;
+height:1000px;
+overflow:scroll;
+    
+    
+}
+
