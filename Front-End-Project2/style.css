@@ -1,6 +1,13 @@
 .navbar {
     background-color: rgb(55, 116, 159) !important;
+   
 }
+
+.navbar-nav .nav-item {
+    padding-right: 0;
+    padding-left: 0;
+    text-align: right;
+   }
 
 body {
     background-color: rgb(246, 246, 246);
@@ -15,22 +22,20 @@ padding: 22px;
 
 
 margin-right: 400px;
-
-
- 
- 
-
 }
 
 .div1 {
-    background-color: rgb(255, 251, 251);
+    background-color: rgb(242, 239, 239);
     color: black;
     padding: 15px;
     
-    Width:175px;
+    Width:180px;
 height:1000px;
 overflow:scroll;
-    
-    
+  
+}
+
+.nav-item {
+    float: right;
 }
 
